@@ -29,7 +29,7 @@ pal.bands(alphabet, alphabet2, cols25, glasbey, kelly, polychrome,
           stepped, tol, watlington,
           show.names=FALSE)
 
-setwd("/Users/danielar.urbina/Dropbox/ResearchNote_Hypergamy/Data/Universal_data")
+#setwd
 argentina <-data.frame(read.csv("argentina_univ.csv"))
 brazil <-data.frame(read.csv("brazil_univ.csv"))
 chile <-data.frame(read.csv("chile_univ.csv"))
