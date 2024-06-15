@@ -1,4 +1,4 @@
-# Figure 1 PDR article. Urbina, Frye, and Lopus. 
+# Figure 3 PDR article. Urbina, Frye, and Lopus. 
 
 library("foreign")
 library("readstata13")
@@ -21,7 +21,7 @@ library(RColorBrewer)
 library("wesanderson")
 library("cowplot")
 
-setwd("~/Dropbox/ResearchNote_Hypergamy/Data/Married_data")
+#setwd
 
 # Loading datasets. Census data, married population. 
 argentina <-data.frame(read.csv("argentina_un.csv"))
