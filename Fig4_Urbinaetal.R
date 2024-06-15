@@ -21,7 +21,7 @@ library(RColorBrewer)
 library("wesanderson")
 library("cowplot")
 
-#setwd
+# setwd
 
 # Loading datasets. Census data, married population. 
 mexico <-data.frame(read.csv("mexico_un.csv"))
